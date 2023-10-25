@@ -16,8 +16,11 @@ This template provides a starting point for developing with Vue 3 in Vite. It le
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/vue3-ecommerce.git
+git clone https://github.com/mdksaiful30/vue3-ecommerce-store.git
 cd vue3-ecommerce
+```
+```bash
+cd vue3-ecommerce-store
 ```
 Install dependencies:
 ```bash
